@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: python
-        image: osagiefe/f-app1.0:latest
+        image: osagiefe/f-app1.1:latest
         ports:
         - containerPort: 8081
